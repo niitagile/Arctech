@@ -1,0 +1,177 @@
+IT Companies
+
+Software
+How to develop Software
+
+Multiple JDs
+
+Roles
+Dividing Roles according to layers
+
+Different types of Software
+
+System Software/Applications
+Operating system - which help us to mamange all things on our systems
+
+Windows
+Linux/Unix- Ubuntu
+MAC
+Android
+IOS
+
+
+User Applications
+
+MS Office-- MS word, Ms Excel, powerpoint(spreadsheet), outlook, 
+MS teams 
+Web Browser- firefox, chrom, Opera,IE
+
+Oracle
+MySQL
+Photoshop
+illustrator
+pagemaker
+flash
+VLC Player
+
+Custom Applications- Grocery Store, Cinema Hall  (Requirement given to development team)
+
+Desktop Applications - which works only on single system
+
+Web Applications- Websites, ERPs Software,CRM, Netflex, primevideo,gmail
+
+
+Mobile Applications- Android play stores
+
+
+IDE- Integrated Development Environment- different tools to create a software
+Eclipse
+Visual Studio
+Visual Studio Code
+pycharm
+Anaconda
+Android Studio
+NetBeans
+Intellij
+BlueJ
+phpstorm
+
+
+
+Framework- standard libaries,template to complete a task
+Spring
+Hibernate
+Springboot
+expressjs
+flutter
+angularjs
+django
+wordpress
+drupal
+vb.net
+asp.net
+
+
+Server tools
+XAMP
+Apache tomcat
+Weblogic
+glassfish
+
+
+Translators
+Interpreter, Compiler, Assembler
+
+English(High Level Language)--Interpreter/Compiler----  Machine Language(Low Level Language)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office Assistant MS Office, 
+
+email handling- outlook
+manage data - excel
+managing schedule- calender
+todo list -excel
+Ms word
+
+************************************************************************************************
+
+Applications
+
+Languages- 
+
+FrontEnd UI- where user can interact 
+FrontEnd Developers/ Front Designers
+Full Stack -- Mean(Angular), merk(React)
+Web Devlopment-- HTML,CSS, javascript, angular, react
+
+UI(User Interaction/Interface)-->Designing html4/5, css (bootstrap- framework css, javascript)
+
+UI Development- scripts(programming)-- javascript eg :timer
+
+javascript--> jquery library
+javascript framework--> angular(typescript), react
+
+UX-
+
+
+BusinessLogic Layer(Backend)
+OOPs Concepts
+
+
+java, python, php, asp
+springboot
+spring
+
+
+
+
+
+Database
+oracle, mysql, postgress, ms access, mongodb, sql server, db2
+
+
+
+
+Web Services/MicroServices
+
+*********************************************************************************
+Categories of software
+System
+Application
+customize
+
+FrontEnd- Technologiess
+Backend- Technologies
+
+
+IDE
+Framework
+
+Web servoce/ Microservices
+
+
+OOPs based Languages and database
+
+
+
+
+
+
+
+
+
+
