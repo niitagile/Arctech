@@ -1,0 +1,54 @@
+SDLC- Software Development Life Cycle
+
+1) Requirement- Business Analyst
+2) Analysis --> Experts--> Software Analyst-- Tools
+     Analysis tools
+ SRS- Software Requirement specification
+Planning based tools
+	JIRA, Zenhub
+3) Desiging part -- Software Engineer OOAD
+
+frontend
+middleware
+backend---> database, what data is require to store and how to store-- ER Diagrams--> Rational tool , star tool, VS Code
+Dataflow--> UML tools
+Testing tools
+
+4) Coding part--> developers Unit Testing--> 
+
+Junit, Pyunit, mockito,Jupyter
+
+5) Testing-- Separate team
+Selinium--> Intergation Testing
+OOPs concepts, html, javascript,python, sql, networking
+
+System testing-- Operational team 
+
+IT Team, Network person -- Network Administrator- MCSE , CCNA
+Window Administrator
+Linux Administrator
+Database Administrator(DBA)
+6) Implementation
+Acceptance Testing 
+6) Maintenance
+
+
+Database Administrator - infrastructure
+Backup
+Recovery
+Security
+
+Database Developer -- programmer  SQL and PL/SQL
+
+how to store data
+how to get data
+
+
+
+business analyst  
+
+
+business data analyst
+
+
+business system analyst 

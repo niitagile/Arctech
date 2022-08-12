@@ -1,0 +1,32 @@
+Devops
+Devlopment team + Operational team
+Developer team+testing team+montoring team+infra team
+
+Devops Engineer- Cloud Computing, linux, shell script
+Developer
+
+
+
+
+jenkins-- Integration  Developers/Testing
+docker-- infra Developers(Create images)  /testing/infra
+git-- versioning (a famous tool for developers)/csv
+mockito - testing tool
+chef- (
+Ansible
+
+Puppet
+
+
+Maven-- build tool
+Source code Management/Versioning management- Git, github, gitlab
+sonar qube -- code Quality purpose  testing
+configuration management - Puppet, chef, ansible
+Continuous Integration- Jenkins , Bamboo
+Continuous Testing- Selenium, TestingWhiz, TestComplete 
+
+Containerization-Kubernetes,Docker,vagrant
+
+
+Continuous Monitoring--Nagious, Zabbix, Splunk
+
