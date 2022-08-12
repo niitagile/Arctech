@@ -1,0 +1,71 @@
+SDLC
+
+.net Developer- Visual studio, C#,Asp.net/VB.net ,ADO.net, mongodb, ms sql server, REST API/RPC, WFP, Agile tools,   
+
+
+
+Cloud - IaaS, PaaS, SaaS, FaaS
+Ansible
+Scrum master- Certification, planning tools,
+
+			Data Warehouse
+
+ETL-Extraction, Transformation,loading
+
+- taking active inputs from stackholders, testing, developers, analyst
+Extraction- get incomplete, different format data from different resource--> extract relevant data
+Cleansing- arrange data in proper format
+Transformation-provide data according to user format
+Loading- store it in database
+
+ETL Tools
+IBM DataStage.
+Oracle Data Integrator.
+Fivetran.
+SAS Data Management.
+Talend Open Studio.
+Pentaho Data Integration.
+Singer.
+Hadoop.
+informatica powercenter
+AWS Glue
+Azure Data Factory
+Google Cloud Dataflow
+SnowFlake
+
+
+**********OLAP
+OLAP- Online Analytical Processing
+
+Finance and accounting:
+
+Budgeting
+Activity-based costing
+Financial performance analysis
+And financial modeling
+
+
+Sales and Marketing
+
+Sales analysis and forecasting
+Market research analysis
+Promotion analysis
+Customer analysis
+Market and customer segmentation
+
+Production
+
+Production planning
+Defect analysis
+
+
+DENDRAL--> Expert System (AI)
+
+
+IBM Congnos
+
+
+Redshift
+
+
+

@@ -2,11 +2,11 @@ SDLC- Software Development Life Cycle
 
 1) Requirement- Business Analyst
 2) Analysis --> Experts--> Software Analyst-- Tools
-     Analysis tools
+     Analysis tools (requirement- modules, budget, technology, operational(training))
  SRS- Software Requirement specification
-Planning based tools
+Planning based tools   time period, responsibilties
 	JIRA, Zenhub
-3) Desiging part -- Software Engineer OOAD
+3) Desiging part -- Software Engineer OOAD (UML tools)
 
 frontend
 middleware

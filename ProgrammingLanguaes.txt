@@ -1,0 +1,98 @@
+Programming Languages:
+FrontEnd
+Websites
+	
+Front End -- Html,CSS, JavaScript
+
+Front End Designers- Html, CSS bootstrap- framework  UI (User Interface)
+
+UX - User Experience  tools HTML/CSS/ Javascript
+
+
+FrontEnd Developer
+
+Mean Stack- html, css, javascript, jquery, angularjs, anyone database
+MerK stack- html, css, javascript, jquery, react, anyone database
+
+PHP-html, css, javascript, jquery, angularjs, anyone database
+MerK stack- html, css, javascript, jquery, react, anyone database
+
+Python- framework- Django (Websites)
+
+
+C programming/C++ - System software, machine based software, Drivers, compiler, interpreter
+
+
+
+Java programming- website/desktop/mobile application/ security based software/ AI based software
+Web Development
+Java Full Stack Developerangular (Angular)-
+sdlc, agile, git, uml tools, jira , html, css, javascript, jquery, bootstrap,angular/react, jasmin, karma, core java,
+spring, springboot ,junit, mockito, jacoco, swagger, lombok, selinium, jenkins, sonarqube, docker, microservices, spring cloud or any other cloude services  , JDBC, Hibernate,SQL
+
+Java Full Stack Developer (React)-
+
+Security System
+core java, networking, RMI, security module
+
+Desktop application
+Core Java, Swing
+
+C#- Web Devlopment/ Desktop application
+ASP.net  -- Web application--sdlc, agile, git, uml tools, jira , html, css, javascript, jquery, bootstrap,devops tools , testing tools, asp.net, WCP Framework, WPF Framework
+VB.net- 
+
+SQL- a programming-- to access our database
+NoSQL
+
+Two types of inforamation
+structured- tablular format--Relational Database Management System (RDBMS)-- Oracle/mysql/sql Server/postgres/
+unstructured- nosql based database-- mongodb
+
+python- 2.7, 3.X
+1) Automation- AI
+2) Web Development
+3) Data Science
+Ruby - web application,data analysis Rails Web framework
+
+Mobile Application
+Android Studio- Platform 
+Core Java
+Dart and Flutter
+Kotlin
+
+
+XML- serverbased application
+
+JSON-JavaScript, It is possible to send information from 1 language to another language
+
+
+AJAX- Responsive website/async websites
+
+SDLC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common things in Stack
+git, devops tools, testing tools, UML tools, Agile , SDLC
+
+
+
+
+
+
