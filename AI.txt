@@ -1,0 +1,116 @@
+					Artificial Intelligence
+
+simulation of human intelligence
+
+AI is based on Algorithms
+
+Alogrithm writing
+
+Machine Learning-- Neural Networks , Deep Learning
+
+Most famous language for AI is python, Java
+
+Maccine Language - R language
+
+AI Tools and Framework
+i)Scikit- Learn- Library. It is used for unsupervised learning..  It is expanded with python, numpy,, scipy
+use for deep learning, data mining, Normal application of AI
+
+ii) Tesnsorflow - google is using a lot, voice - acknoledgement application
+iii) Caffe- It is implemented with google's deep dream , neural network, 
+
+iv) mxnet-- framework for any language to create AI based s/w
+v) pytorch-- facebook
+vi)OpenNN-  Neuaral Designers
+vII) Google ML - mobile developers
+
+
+Salesforce
+Tableau
+
+
+
+Amazon services for AI
+Amazon poly
+sagemaker
+Amazon Rekognition
+Amazon Lex
+
+
+
+AI/ ML Developer
+Python OR R
+
+AI in Deep learning
+Data engineering and modeling for Artificial developer
+Python OR R
+
+Builds and develop artificial intelligence (AI) models using machine learning algorithms and deep learning neural networks to draw business insights and predicting future events.
+Designing machine learning systems and self-running artificial intelligence (AI) software to automate predictive models and refine machine learning objectives.
+Transforming data science prototypes and applying appropriate ML algorithms and tools.
+Developing ML algorithms to analyze huge volumes of historical data to make predictions.
+Performing statistical analysis, and interpreting test results, documenting machine learning processes
+Extensive knowledge of ML frameworks, libraries, data structures, data modeling, and software architecture.
+Qua :
+Bachelor's degree or Masters degree in computer science, data science, data analytics, mathematics, or a related field.
+
+
+				Machine Learning
+Rapid increment in the production of data
+Solving complex problems, which are difficult for a human
+Decision making in various sector including finance
+Finding hidden patterns and extracting useful information from data.
+
+
+Classification of Machine Learning
+supervised learning- sample labeled data is already saved in machine system
+classification algorithms, regression algorithms  IBM Watson
+
+unsupervised learning- machine tries to find out result from huge amount of data without any supervision.  
+In Big data we use it to make group of similar type of data
+algorithm- clustering and association
+
+reinforcement learning- based on feedback and improve performances. Like google map
+
+
+
+Neural network processing (NLP)
+
+
+IOT- Internet of things (ML/AI)
+Network infrastructure,cloud infrastructure,gateways,things
+
+Image Processing 
+
+**********************************************************************************
+					SAP
+
+SAP is a big company which provides ERP
+ERP Enterprise resource planning
+eg- peoplesoft
+eg -Oracle ebs
+
+	SAP Modules
+SAP Hana-- work as a database
+Financial Accounting (FI)
+Financial Supply Chain Management (FSCM)
+Controlling (CO)
+Materials Management (MM)
+Sales and Distribution (SD)
+Logistics Execution (LE)
+Production Planning (PP)
+Quality Management (QM)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

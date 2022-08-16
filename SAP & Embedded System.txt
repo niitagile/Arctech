@@ -1,0 +1,179 @@
+				SAP
+
+a company provides different module of ERP
+ERP- Enterprise resource and planning
+it is used by organization to manage day-to-day business activities.
+BPI- Business Process Integration - flow of information from one process to another in any business
+
+
+Functional Areas
+Financial Accounting
+HR
+CRM
+Sales and Distribution
+Logistics and Ware house management
+Manufacturing and material management
+Supply management system
+Business Intelligence
+
+
+Different SAP Modules
+Financial Accounting (FI) - 
+Financial Supply Chain Management (FSCM)-Supplier Relationship management(SRM)-integaret with planning, accounting and inventroy system
+Controlling (CO)-Cost and Revenu management
+Materials Management (MM)- starts from quatation collection till material supply. use in all phases like logistics, production, sales and delivery, data warehouse, planning
+Sales and Distribution (SD)- use from product to till delivery 
+Logistics Execution (LE)-- shipping of goods (production to procurement process), warehouse management( storage of goods) 
+Production Planning (PP)
+Quality Management (QM)- Feedback namangement system
+Plan Maintenance (PM)- planning
+Project System (PS)- 
+Human Resources (HR)- Employee management system
+CRM- Customer relationship management- use to manage end-to-end customer relationship process, Marketing , sales, order,tracking, support
+
+
+
+Hana
+ABAP
+Package Consultant - he is designing,developing and re-engineering the business process. He automates the system by using different modules of SAP
+
+
+
+ABAP-Advanced business application programming. Event-driven programming
+Forms, Reports, UI,
+
+Hana- it is cloud based database where we can store data and can analysis data. Must know about rdbms and sql
+
+
+
+Different roles 
+
+
+Tasks Performed under Different Roles
+We can further categorize the tasks performed under different roles −
+
+System Architect
+	Sizing SAP systems
+	Design SAP landscape
+
+Transport Administrator
+	Change control across SAP landscape
+	
+Batch Administrator
+	Create and manage batch jobs across landscape  (Scripts-- through which we are performing multiple task together)
+
+Security Specialist
+	Design, monitor, and manage access to SAP landscape
+
+ABAP Specialist
+	Troubleshoot and tune ABAP programs
+	Apply correction to program
+
+DDIC Manager
+	Manage changes to SAP data dictionary  (DBA)
+
+SAP DBA
+	Manage integrity of SAP database objects
+	Manage backups and restore
+
+System Administrator
+	Maintain system health
+	Monitor and tune system performance
+
+Interface Analyst
+	Analyze and Monitor
+	Interfaces within SAP landscape
+
+
+Solutions Specialist
+	Installation of AP / Add-On
+	Migrate OS / DB
+	Upgrade SAP version
+
+Archiving of SAP Data
+SAP BASIS Administration Tasks
+SAP BASIS administration tasks can be further categorized as follows −
+
+SAP Administration
+Starting and stopping SAP instance(s)
+User administration – setup and maintenance
+Authorization / Role / Profiles – setup and maintenance
+Setup SAP security
+Maintenance of system’s health
+Monitor system performance and logs
+Spool and print administration
+Maintain system landscape
+Transport management systems
+Manage change requests
+Create / Manage batch jobs
+Backup schedule, run, and monitor backup of SAP
+Apply patches, kernel, and OSS notes
+Database Administration
+Database Space Management
+Database Backup
+Database Recovery
+Database log (Redo log, Archive Log) management
+Database Performance Tunings
+Operation System Administration
+Operation system security
+Operation system performance tuning
+OS space management
+OS level background job management
+OS level backup and recovery
+Overall System Monitoring
+Monitoring R/3 servers and instances
+Monitoring users and authorizations
+Monitoring security part
+Monitoring workload analysis
+Monitoring processes
+Monitoring buffers
+Monitoring operating system
+Monitoring database
+Monitoring backups
+
+
+ECC- ERP Central Component
+SAP Application--> ECC--> Database
+
+
+
+
+Master data is the core data that is used as a base for any transaction.
+If you are producing, transferring stock, selling, purchasing, doing physical inventory, whatever your activity may be, it requires certain master data to be maintained.
+
+Example of Master Data
+
+Material master data
+Customer master data
+Vendor master data
+Pricing/conditions master data
+Warehouse management master data (storage bin master data)
+******************************************************************************************************************
+
+System- collection of multiple units which work on some set of rules
+
+Embedded System- Hardware System + Softare System, real time control system, microcontroller based system
+
+Embedded system is having 3 components
+Hardware
+software
+real time operating system (RTOS)
+
+
+ASIP - Application Specification Instruction Processor It is used in SoC(System in Chip).
+architecture which includes set of instructions to sole arithmetic as well logical things
+set of instruction CISP or RISK
+
+
+ASIC - Application Specific Integrated Circuits- chip design specially for a specific application
+
+
+Memory
+Analog and Digital IO
+Processors
+
+
+C, C++, python , Assembly language
+
+
+VLSI- Very large Scale Integration
